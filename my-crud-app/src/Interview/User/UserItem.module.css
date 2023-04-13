@@ -1,0 +1,15 @@
+.main{
+    width: 40%;
+    margin: 2px auto;
+}
+.item{
+    box-shadow:  0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    width: 100%;
+}
+.child{
+    margin: 1px auto;
+}
+.form{
+    width: 50%;
+    margin: 2px auto;
+}

@@ -1,0 +1,10 @@
+.header {
+    list-style-type: none;
+display: flex;
+justify-content: space-around;
+width: 60%;
+margin: 2px auto;
+    }
+    .header a{
+        text-decoration: none;
+    }
